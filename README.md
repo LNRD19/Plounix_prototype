@@ -1,1 +1,3 @@
-# Plounix_prototype
+# Plounix_prototype 
+npm install next
+npm install supabase 
